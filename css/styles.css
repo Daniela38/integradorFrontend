@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+nav img{
+    width: 100px;
+    margin-left: 100px;
+}
+nav .navbar-brand{
+    margin-right: 250px;
+}
+nav .verde{
+    color: green;
+}
+.conf{
+    padding-top: 350px;
+    padding-right: 100px;
+    height: 700px;
+    background-image: url("../imgs/ba1.jpg");
+    background-size: cover;
+    text-align: right;
+    color: white;
+}
+.conf p{
+    margin-left: 700px;
+}
+.titulo{
+    text-align: center;
+    font-size: 0.8rem;
+    margin: 5px;
+}
+h4{
+    text-align: center;
+}
+.oradores .card-body{
+    text-align: left;
+}
+.oradores .card-body span{
+    font-weight: bold;
+    font-size: 0.8rem;
+    border-radius: 5px;
+    padding: 3px;
+}
+.oradores .bg-info, .bg-secondary, .bg-danger{
+    color: white;
+}
+.octubre{
+    display: flex;
+    margin-top: 30px;
+}
+.octubre img{
+    width: 50%;
+}
+.octubre .texto{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+}
+.formulario{
+    margin: 20px 280px 15px 280px;
+}
+.formulario p{
+    text-align: center;
+}
+.formulario .texto-formulario{
+    text-align: left;
+    font-size: 0.8rem;
+}
+footer{
+    background-color: grey;
+    color: white;
+}
+footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 150px 30px 150px;
+}
