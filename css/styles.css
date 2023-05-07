@@ -71,7 +71,8 @@ h4{
     font-size: 0.8rem;
 }
 footer{
-    background-color: grey;
+    /*background-color: grey;*/
+    background: linear-gradient(to right, rgb(15, 15, 63), rgb(26, 26, 133), rgb(95, 95, 255));
     color: white;
 }
 footer ul{
