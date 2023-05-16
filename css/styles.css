@@ -16,7 +16,7 @@ nav .navbar-brand{
 nav .verde{
     color: green;
 }
-.conf{
+#conf{
     padding-top: 350px;
     padding-right: 100px;
     height: 700px;
@@ -25,7 +25,7 @@ nav .verde{
     text-align: right;
     color: white;
 }
-.conf p{
+#conf p{
     margin-left: 700px;
 }
 .titulo{
@@ -36,37 +36,37 @@ nav .verde{
 h4{
     text-align: center;
 }
-.oradores .card-body{
+#oradores .card-body{
     text-align: left;
 }
-.oradores .card-body span{
+#oradores .card-body span{
     font-weight: bold;
     font-size: 0.8rem;
     border-radius: 5px;
     padding: 3px;
 }
-.oradores .bg-info, .bg-secondary, .bg-danger{
+#oradores .bg-info, .bg-secondary, .bg-danger{
     color: white;
 }
-.octubre{
+#octubre{
     display: flex;
     margin-top: 30px;
 }
-.octubre img{
+#octubre img{
     width: 50%;
 }
-.octubre .texto{
+#octubre .texto{
     background-color: grey;
     color: white;
     padding: 10px;
 }
-.formulario{
+#formulario{
     margin: 20px 280px 15px 280px;
 }
-.formulario p{
+#formulario p{
     text-align: center;
 }
-.formulario .texto-formulario{
+#formulario .texto-formulario{
     text-align: left;
     font-size: 0.8rem;
 }
